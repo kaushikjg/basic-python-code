@@ -16,6 +16,3 @@ dis={"kaushik":"private job","amit":"gammer","rajan":"gov. job","durgesj":"none"
 #     count +=1
 #     if count % 10 != 0:
 #         print(count)
-from math import ceil
-print(10 % 11)
-print(ceil(11/10))
